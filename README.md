@@ -11,5 +11,3 @@ Please refer to [Telugu-LLM-Labs](https://huggingface.co/Telugu-LLM-Labs) for mo
 
 If you have any questions, please feel free to reach out to us on Twitter or LinkedIn.
 
-1. Ravi Theja - [Twitter](https://twitter.com/ravithejads), [LinkedIn](https://www.linkedin.com/in/ravidesetty/)
-2. Ramsri Gautham - [Twitter](https://twitter.com/ramsri_goutham), [LinkedIn](https://www.linkedin.com/in/ramsrig)
